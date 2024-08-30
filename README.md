@@ -6,7 +6,7 @@ My name is Daniel Aimé Valcour. This is my GitHub profile. Through this website
 
 ### Where do you work at?
 
-I have not been employed in the software industry yet, but I want to do so after I finish school. I am currently attending college while I finish my Bachelor's degree in Computer Science. In the meantime, I enjoy programming for fun.
+I have not been employed in the software industry yet. I am currently attending college while I finish my Bachelor's degree in Computer Science. In the meantime, I enjoy programming for fun.
 
 ### What programming languages do you use?
 
