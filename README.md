@@ -14,7 +14,7 @@ I mainly use C and C++, but I have worked with so many other languages in the pa
 
 ### What tools do you use for software development?
 
-I use [Visual Studio Code](https://code.visualstudio.com/) for code editing. I also use [CMake](https://cmake.org/) for generating my C and C++ projects. I like to use the [REUSE Specification](https://reuse.software/) in all of my open source projects to document licenses.
+I use [Visual Studio Code](https://code.visualstudio.com/) for code editing. I also use [CMake](https://cmake.org/) for generating my C and C++ projects. I like to use the [REUSE Specification](https://reuse.software/) for licensing.
 
 ### What operating system do you use?
 
